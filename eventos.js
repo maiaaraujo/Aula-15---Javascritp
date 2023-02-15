@@ -7,17 +7,17 @@ if (idade < 14) {
     alert("voce é uma criança");
 }
 
-if (idade > 14 && idade < 18){
+if (idade >= 14 && idade < 18){
 
     alert("voce é um adolescente");
 }
 
-if (idade > 18 && idade < 60){
+if (idade >= 18 && idade < 60){
 
     alert("voce é um adulto");
 }
 
-if (idade > 60){
+if (idade >= 60){
 
     alert("voce é um idoso");
 }

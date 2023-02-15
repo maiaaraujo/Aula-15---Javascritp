@@ -23,4 +23,5 @@ if (ladoA == ladoB && ladoB == ladoC){
 //!= : comparação de diferença
 //&& : e, ou seja, conjução de condições
 //|| : ou, ou seja, ou uma condição ou outra
+//Operadores lógicos : > <  ==   !=  &&  ||  %
 

@@ -12,3 +12,15 @@ if (ladoA == ladoB && ladoB == ladoC){
     alert("isósceles");
 }
 
+//var 
+//let
+//const
+
+//String: conjunto de caracteres
+//Interger :Números inteiros
+//= : associação ou atribuição
+//== : comparação de igualdade
+//!= : comparação de diferença
+//&& : e, ou seja, conjução de condições
+//|| : ou, ou seja, ou uma condição ou outra
+
